@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Belajar .Net\\.Net Core\\VisioTest\\VisioTest\\VisioTest.csproj": {}
+  },
+  "projects": {
+    "D:\\Belajar .Net\\.Net Core\\VisioTest\\VisioTest\\VisioTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Belajar .Net\\.Net Core\\VisioTest\\VisioTest\\VisioTest.csproj",
+        "projectName": "VisioTest",
+        "projectPath": "D:\\Belajar .Net\\.Net Core\\VisioTest\\VisioTest\\VisioTest.csproj",
+        "packagesPath": "C:\\Users\\RHOMMIE\\.nuget\\packages\\",
+        "outputPath": "D:\\Belajar .Net\\.Net Core\\VisioTest\\VisioTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RHOMMIE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Belajar .Net\\.Net Microservice\\packages": {},
+          "D:\\Belajar .Net\\.Net Microservice\\packages_new": {},
+          "D:\\Project\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
